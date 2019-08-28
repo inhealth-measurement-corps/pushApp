@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103428030334",
+    "firebase_url": "https://pushapp-acc49.firebaseio.com",
+    "project_id": "pushapp-acc49",
+    "storage_bucket": "pushapp-acc49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103428030334:android:7eaf40f5f3fb3ff5",
+        "android_client_info": {
+          "package_name": "com.pushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103428030334-072tma8jqabtfi8eui2u9gbfgiibdd2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARY1KaeZwtYdBeYSoOI0QlaxQiZMBTFH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103428030334-072tma8jqabtfi8eui2u9gbfgiibdd2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
